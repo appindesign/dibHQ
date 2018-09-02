@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingBottom="@dimen/halfGrid"
+    android:paddingTop="@dimen/halfGrid" >
+
+    <TextView
+        android:id="@+id/course"
+        style="@style/firstLineText"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:text="@string/course" />
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="3" >
+
+            <TextView
+                android:id="@+id/competitor"
+                style="@style/firstLineText"
+                android:layout_alignParentTop="true"
+                android:text="@string/competitor" />
+
+            <TextView
+                android:id="@+id/club"
+                style="@style/secondLineText"
+                android:layout_below="@id/competitor"
+                android:text="@string/club" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content" 
+            android:layout_weight="1">
+
+            <TextView
+                android:id="@+id/time"
+                style="@style/firstLineText"
+                android:layout_alignParentRight="true"
+                android:text="@string/time" />
+
+            <TextView
+                android:id="@+id/classification"
+                style="@style/secondLineText"
+                android:layout_alignParentRight="true"
+                android:layout_below="@id/time"
+                android:text="@string/classification"
+                android:textColor="@color/primary" />
+        </RelativeLayout>
+
+</LinearLayout><!-- From: file:/C:/Users/Appin/AndroidstudioProjects/dibHQ/dibHQ/src/main/res/layout/result_slip_layout.xml -->

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- The items in this array correspond to those in the sortSql array and must appear in the same order in both arrays. -->
+    <string-array name="sortListOptions">
+        <item>@string/course</item>
+        <item>@string/surname</item>
+        <item>@string/forename</item>
+        <item>@string/club</item>
+        <item>@string/classification</item>
+        <item>@string/time</item>
+    </string-array>   
+    
+    <!-- The items in this array correspond to those in the sortListOptions array and must appear in the same order in both arrays. -->
+  	<string-array name="sortSql">
+    	<item>"COL_NAME ASC, COL_STATUS ASC, COL_TIME ASC, COL_CLASSIFICATION ASC, COL_CLUB ASC, COL_SURNAME ASC, COL_FORENAME ASC"</item>
+    	<item>"COL_SURNAME ASC, COL_NAME ASC, COL_STATUS ASC, COL_TIME ASC, COL_CLASSIFICATION ASC, COL_CLUB ASC, COL_FORENAME ASC"</item>
+		<item>"COL_FORENAME ASC, COL_NAME ASC, COL_STATUS ASC, COL_TIME ASC, COL_CLASSIFICATION ASC, COL_CLUB ASC, COL_SURNAME ASC"</item>
+    	<item>"COL_CLUB ASC, COL_NAME ASC, COL_STATUS ASC, COL_TIME ASC, COL_CLASSIFICATION ASC, COL_SURNAME ASC, COL_FORENAME ASC"</item>
+    	<item>"COL_CLASSIFICATION ASC, COL_NAME ASC, COL_STATUS ASC, COL_TIME ASC, COL_CLUB ASC, COL_SURNAME ASC, COL_FORENAME ASC"</item>
+    	<item>"COL_STATUS ASC, COL_TIME ASC, COL_NAME ASC, COL_CLASSIFICATION ASC, COL_CLUB ASC, COL_SURNAME ASC, COL_FORENAME ASC"</item>
+	</string-array>    
+    
+    <string-array name="resultColumnTags">
+        <item>course</item>
+        <item>competitor</item>
+        <item>club</item>
+        <item>classification</item>
+        <item>time</item>
+    </string-array>    
+
+</resources>

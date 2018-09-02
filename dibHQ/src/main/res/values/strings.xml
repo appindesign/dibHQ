@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Application strings -->
+    <string name="app_name">dib HQ</string>
+    <string name="version">version</string>
+    <string name="copyright">\u00a9 Copyright Appin Design 2014. All rights reserved.</string>
+    <string name="website"><a href="http://www.appindesign.com/dib">www.appindesign.com/dib</a></string>
+
+    <!-- Menu strings -->
+    <string name="actionShare">Share</string>
+    <string name="actionDelete">Delete</string>
+    <string name="actionAbout">About</string>
+    <string name="actionScan">Scan</string>
+    <string name="actionExport">Export</string>
+
+    <!-- Sort description strings -->
+    <string name="forename">Forename</string>
+    <string name="surname">Surname</string>
+    <string name="competitor">Competitor</string>
+    <string name="name">Name</string>
+    <string name="club">Club</string>
+    <string name="classification">Classification</string>
+    <string name="competitorId">Competitor ID</string>
+    <string name="course">Course</string>
+    <string name="status">Status</string>
+    <string name="time">Time</string>
+
+    <!-- Status strings -->
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="noSplit">ns</string>
+<!--     <string name="ok">OK</string>
+    <string name="mp">mp</string>
+    <string name="dnf">dnf</string> -->
+
+    <!-- File strings -->
+    <string name="simpleResultsFilename">simple_results.txt</string>
+    <string name="winsplitsFilename">winsplits.xml</string>
+    <string name="splitsbrowserFilename">splitsbrowser.csv</string>
+
+    <!-- Error strings -->
+    <string name="notScanned">No result scanned</string>
+    <string name="notDibResult">Scanned code is not a dib result.</string>
+    <string name="noZxing">zxing is not installed. Install zxing from Google Play to enable QR mode.</string>
+    <string name="needMedia">Your device requires an SD card in order to share results.</string>
+    <string name="fileNotSaved">An unidentified problem means a file cannot be saved. Results will not be able to be shared.</string>
+
+    <!-- Button strings -->
+    <string name="resultsBy">Results by\u0020</string>
+    <string name="scan">Scan</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Information strings -->
+    <string name="dibResults">dib Results</string>
+    <string name="shareResultsVia">Share results by</string>
+    <string name="delete">Delete</string>
+    <string name="deleteResults">Delete Results?</string>
+    <string name="deleteAllResults">Delete all results?</string>
+    
+	<string name="xmlMp">MisPunch</string>
+	<string name="xmlDns">DidNotStart</string>
+	<string name="xmlDnf">DidNotFinish</string>
+	<string name="unable_to_create">Unable to create </string>   
+
+</resources>
