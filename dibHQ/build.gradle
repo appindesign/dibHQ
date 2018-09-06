@@ -2,10 +2,10 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 19
-    buildToolsVersion "21.0.2"
+    buildToolsVersion '27.0.3'
 
     defaultConfig {
-        applicationId "com.appindesign.dibhq"
+//        applicationId "com.appindesign.dibhq"
         minSdkVersion 8
         targetSdkVersion 19
         versionCode 3
@@ -15,13 +15,13 @@ android {
 
     buildTypes {
         release {
-            runProguard true
+            minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt')
         }
     }
 }
 
 dependencies {
-    compile project(':dibLibrary')
-    compile 'com.android.support:appcompat-v7:19+'
+    implementation project(':dibLibrary')
+    implementation 'com.android.support:appcompat-v7:19+'
 }

@@ -1,0 +1,135 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:2:1-57:12
+MERGED from [:dibLibrary] E:\Proyectos\Android\dibHQ\dibLibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:appcompat-v7:19.1.0] C:\Users\luis.barrachina\.gradle\caches\transforms-1\files-1.1\appcompat-v7-19.1.0.aar\89272d95723a91bd03d9862adaba063c\AndroidManifest.xml:16:1-20:12
+INJECTED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:2:1-57:12
+	package
+		ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:4:5-36
+	android:versionName
+		ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml
+		INJECTED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml
+		INJECTED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:8:5-10:40
+INJECTED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:8:5-10:40
+INJECTED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:8:5-10:40
+MERGED from [:dibLibrary] E:\Proyectos\Android\dibHQ\dibLibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:dibLibrary] E:\Proyectos\Android\dibHQ\dibLibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:19.1.0] C:\Users\luis.barrachina\.gradle\caches\transforms-1\files-1.1\appcompat-v7-19.1.0.aar\89272d95723a91bd03d9862adaba063c\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:appcompat-v7:19.1.0] C:\Users\luis.barrachina\.gradle\caches\transforms-1\files-1.1\appcompat-v7-19.1.0.aar\89272d95723a91bd03d9862adaba063c\AndroidManifest.xml:18:5-42
+INJECTED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:8:5-10:40
+INJECTED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:8:5-10:40
+	android:targetSdkVersion
+		ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:10:9-38
+		INJECTED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml
+		INJECTED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:9:9-34
+		INJECTED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml
+		INJECTED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:12:2-83
+	android:name
+		ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:12:19-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:13:2-94
+	android:name
+		ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:13:19-75
+uses-permission#com.android.vending.BILLING
+ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:14:2-63
+	android:name
+		ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:14:19-61
+uses-feature#android.hardware.telephony
+ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:16:5-87
+	android:required
+		ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:16:61-85
+	android:name
+		ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:16:19-60
+uses-feature#android.hardware.camera
+ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:17:5-84
+	android:required
+		ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:17:58-82
+	android:name
+		ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:17:19-57
+supports-screens
+ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:19:5-138
+	android:largeScreens
+		ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:19:23-50
+	android:smallScreens
+		ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:19:80-107
+	android:normalScreens
+		ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:19:51-79
+	android:xlargeScreens
+		ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:19:108-136
+application
+ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:21:5-55:19
+MERGED from [:dibLibrary] E:\Proyectos\Android\dibHQ\dibLibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-14:19
+MERGED from [:dibLibrary] E:\Proyectos\Android\dibHQ\dibLibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:appcompat-v7:19.1.0] C:\Users\luis.barrachina\.gradle\caches\transforms-1\files-1.1\appcompat-v7-19.1.0.aar\89272d95723a91bd03d9862adaba063c\AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:appcompat-v7:19.1.0] C:\Users\luis.barrachina\.gradle\caches\transforms-1\files-1.1\appcompat-v7-19.1.0.aar\89272d95723a91bd03d9862adaba063c\AndroidManifest.xml:19:5-20
+	android:label
+		ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:24:9-41
+	android:icon
+		ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:23:9-45
+	android:allowBackup
+		ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:25:9-40
+activity#com.appindesign.dibhq.DibHqMain
+ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:27:9-34:20
+	android:label
+		ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:28:13-45
+	android:icon
+		ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:29:13-49
+	android:name
+		ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:27:19-65
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:32:27-74
+receiver#com.appindesign.dibhq.ReceiverOfSms
+ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:36:9-40:20
+	android:name
+		ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:36:19-69
+intent-filter#action:name:android.provider.Telephony.SMS_RECEIVED
+ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:37:13-39:29
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:38:25-79
+receiver#com.appindesign.dibhq.ReceiverOfResults
+ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:42:9-48:20
+	android:exported
+		ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:43:13-67
+intent-filter#action:name:DIB_STORE_RESULT_ACTION
+ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:45:13-47:29
+action#DIB_STORE_RESULT_ACTION
+ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:46:17-66
+	android:name
+		ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:46:25-63
+provider#com.appindesign.dibhq.DibHqLocalStore
+ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:50:9-53:20
+	android:authorities
+		ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:51:13-72
+	android:exported
+		ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:52:13-37
+	android:name
+		ADDED from E:\Proyectos\Android\dibHQ\dibHQ\src\main\AndroidManifest.xml:50:19-71

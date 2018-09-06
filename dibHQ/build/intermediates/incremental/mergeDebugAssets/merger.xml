@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config=":dibLibrary"><source path="E:\Proyectos\Android\dibHQ\dibLibrary\build\intermediates\packagedAssets\debug"/></dataSet><dataSet config="main"><source path="E:\Proyectos\Android\dibHQ\dibHQ\src\main\assets"/><source path="E:\Proyectos\Android\dibHQ\dibHQ\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\Proyectos\Android\dibHQ\dibHQ\src\debug\assets"/></dataSet></merger>
