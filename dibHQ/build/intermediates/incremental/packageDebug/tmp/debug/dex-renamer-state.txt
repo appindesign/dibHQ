@@ -1,0 +1,4 @@
+#Thu Sep 06 15:25:05 CEST 2018
+base.0=E\:\\Proyectos\\Android\\dibHQ\\dibHQ\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
